@@ -8,3 +8,9 @@ Generator BBS (Blum-Blum-Shub).
 conda create -n krypto --file env.yml
 conda activate krypto
 ```
+
+## Uruchomienie
+
+```shell
+python src/main.py
+```
