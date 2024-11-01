@@ -1,5 +1,7 @@
 # BBS
 
+Generator BBS (Blum-Blum-Shub).
+
 ## Instalacja środowiska conda
 
 ```shell
